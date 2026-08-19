@@ -1,6 +1,6 @@
 # TunkDog Backend
 
-Backend de TunkDog / TunkDog, una API REST para una aplicacion movil enfocada en el cuidado de mascotas, registro de perros, autenticacion de usuarios y seguimiento de paseos.
+Backend de TunkDog , una API REST para una aplicacion movil enfocada en el cuidado de mascotas, registro de perros, autenticacion de usuarios y seguimiento de paseos.
 
 El proyecto esta desarrollado con Spring Boot y combina autenticacion JWT, Redis, PostgreSQL/PostGIS, Google Sign-In, verificacion por email y subida de imagenes a Cloudinary.
 
