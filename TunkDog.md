@@ -1,12 +1,12 @@
-# DogApp Backend
+# TunkDog Backend
 
-Backend de DogApp / Dogo Dogo, una API REST para una aplicacion movil enfocada en el cuidado de mascotas, registro de perros, autenticacion de usuarios y seguimiento de paseos.
+Backend de TunkDog / TunkDog, una API REST para una aplicacion movil enfocada en el cuidado de mascotas, registro de perros, autenticacion de usuarios y seguimiento de paseos.
 
 El proyecto esta desarrollado con Spring Boot y combina autenticacion JWT, Redis, PostgreSQL/PostGIS, Google Sign-In, verificacion por email y subida de imagenes a Cloudinary.
 
 ## Descripcion Del Proyecto
 
-DogApp Backend proporciona los servicios necesarios para que un usuario pueda iniciar sesion, gestionar sus perros y registrar los paseos diarios con informacion de distancia, duracion y ruta.
+TunkDog Backend proporciona los servicios necesarios para que un usuario pueda iniciar sesion, gestionar sus perros y registrar los paseos diarios con informacion de distancia, duracion y ruta.
 
 El sistema esta pensado para una app movil donde cada usuario puede tener uno o varios perros, subir avatar para cada mascota, guardar historiales de paseo y consultar estadisticas diarias o mensuales.
 
