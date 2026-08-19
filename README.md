@@ -1,4 +1,4 @@
-# Wei --- Software Developer Portfolio
+# Wei Xu --- Software Developer Portfolio
 
 Software developer focused on **Java, Spring Boot, React, React Native,
 database systems, security, and production deployment**.
@@ -829,7 +829,7 @@ implementation, engineering challenges, and technologies used.
 
 # Contact
 
-**Wei**\
+**Wei Xu**\
 https://www.linkedin.com/in/wei-xu-a57b31250/
 
 Software Developer\
