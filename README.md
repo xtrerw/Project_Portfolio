@@ -831,6 +831,7 @@ implementation, engineering challenges, and technologies used.
 
 **Wei**\
 https://www.linkedin.com/in/wei-xu-a57b31250/
+
 Software Developer\
 Java / Spring Boot / Full Stack
 
